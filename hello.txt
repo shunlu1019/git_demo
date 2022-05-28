@@ -20,3 +20,5 @@ hello linghuchong!
 qqtest
 another test!
 ssh test.
+ssh test2.
+哈哈哈，测试一下!
